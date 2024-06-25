@@ -1,4 +1,7 @@
-## Hi there 👋
+# Eai meu povo, pedrin aqui
+## Aluno do IFTM 2/3 TINF
+Sempre gostei de programar e o github é so mais um passo para isso! 👌
+⚡Sempre gostei de música també, não é atoa que toco 3 instrumentos⚡
 
 <!--
 **ppedrinm/ppedrinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
